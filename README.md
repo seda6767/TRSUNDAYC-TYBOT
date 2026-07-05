@@ -1,1 +1,1 @@
-# TRSUNDAYCİTYBOT
+Parti Kayıt Botu
